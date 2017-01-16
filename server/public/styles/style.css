@@ -1,0 +1,25 @@
+
+body {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+}
+.people {
+  display: inline-block;
+  background-color: pink;
+  width: 18px;
+  height: 18px;
+  margin: 10px;
+}
+#next {
+  background-color: #71a1ed;
+  border-radius: 5px;
+}
+#prev {
+  background-color: #e83043;
+  border-radius: 5px;
+}
+.highlighted{
+  background-color: black;
+}
